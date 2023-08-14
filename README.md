@@ -1,6 +1,10 @@
 # recursos-lexicais-se
 Recursos lexicais desenvolvidos durante a anotação do pronome -se no corpus PetroGold, descrita em trabalho na JDP 2023
 
+Artigo: (em breve)
+
+Como citar: (em breve)
+
 Os arquivos estão distribuidos da seguinte forma:
 
 (1) se_impers, se_pass, se_pv e se_others (.xlsx):
