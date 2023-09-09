@@ -1,11 +1,24 @@
 # recursos-lexicais-se
 Recursos lexicais desenvolvidos durante a anotação do pronome -se no corpus PetroGold, descrita em trabalho na JDP 2023
 
-Artigo: (em breve)
+Título: Um pronome com muitas funções: Descrição e resultados da anotação do pronome -se em um treebank segundo o esquema Universal Dependencies (UD) para Português
+
+Artigo: https://sol.sbc.org.br/index.php/stil/article/view/25461
 
 Apresentação: https://docs.google.com/presentation/d/1ragpZjerrkM3U91_iSRZO1qZnx5OwShj4lNRQ6oLQ5Q/
 
-Como citar: (em breve)
+Como citar:
+
+```
+@inproceedings{de2023pronome,
+  title={Um pronome com muitas fun{\c{c}}oes: Descri{\c{c}}ao e resultados da anota{\c{c}}ao do pronome-se em um treebank segundo o esquema universal dependencies (ud) para portugu{\^e}s},
+  author={de{ }Souza, Elvis and Freitas, Cl{\'a}udia},
+  booktitle={Anais do XIV Simp{\'o}sio Brasileiro de Tecnologia da Informa{\c{c}}{\~a}o e da Linguagem Humana},
+  pages={278--287},
+  year={2023},
+  organization={SBC}
+}
+```
 
 Os arquivos estão distribuidos da seguinte forma:
 
