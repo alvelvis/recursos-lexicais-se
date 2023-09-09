@@ -3,6 +3,8 @@ Recursos lexicais desenvolvidos durante a anotação do pronome -se no corpus Pe
 
 Artigo: (em breve)
 
+Apresentação: https://docs.google.com/presentation/d/1ragpZjerrkM3U91_iSRZO1qZnx5OwShj4lNRQ6oLQ5Q/
+
 Como citar: (em breve)
 
 Os arquivos estão distribuidos da seguinte forma:
